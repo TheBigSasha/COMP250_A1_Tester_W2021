@@ -5,6 +5,7 @@ public class MyAwesomeTester {
 		Basket basket = new Basket();
 		basket.add(new Egg("steve",3,3));
 		System.out.println(basket.getTotalTax());
+		System.out.println("Hello world");
 	}
 
 }
